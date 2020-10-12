@@ -1,2 +1,3 @@
 john, 2
 sarah, 32
+Sean, 120
